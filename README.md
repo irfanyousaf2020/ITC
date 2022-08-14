@@ -1,4 +1,5 @@
-# ITC
+# ITC [Introduction to Computing] <br />
+click below link to see the complete course.
 
 **Course Link** <br />
 <a href="https://www.youtube.com/playlist?list=PLjUDDPhZ15JJVeaB8Wukj-yDq_j3MElPK" target="_blank">Introduction to Computing with CPP</a>
