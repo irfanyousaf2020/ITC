@@ -1,4 +1,6 @@
 # ITC
+**compilation command:**
+g++ <source_code_filename>.cpp -o <output_filename>
 
 **helloworld.cpp:** <br >
 basic template for printing Hello World! message on screen/terminal.
