@@ -1,4 +1,8 @@
 # ITC
+
+**Course Link** <br />
+<a href="https://www.youtube.com/playlist?list=PLjUDDPhZ15JJVeaB8Wukj-yDq_j3MElPK" target="_blank">Introduction to Computing with CPP</a>
+
 **compilation command:** <br />
 g++ <source_code_filename>.cpp -o <output_filename>
 
